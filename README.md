@@ -3,30 +3,42 @@ Lab infrastructure billing system is an executive information system (EIS) that 
 
 # Features
 • Bills management
+
 • Security of data
+
 • Minimumn time required
+
 • greater efficiency
+
 
 # Project Outcomes
 • User can able to login & Signup if in case user forget their password then they can change 
 their password too. 
-• User will bale to access their profile page. 
+
+• User will bale to access their profile page.
+
 • User can able to maintain the records of bills of their Lab infrastructure. 
+
 • Price of every component purchased in different years are available with their scanned 
 copy of bills in pdf format. 
-• The uploaded bills can be printed later when they are required. 
-• Only Registered Users can view or edit the data. Thus providing protection to the data. 
-• Editing, adding and updating of Records by the user 
-• It deals with monitoring the information and transactions of labs. 
-• It tracks all the information of the transactions done. 
-• To increase efficiency of the application. 
 
+• The uploaded bills can be printed later when they are required. 
+
+• Only Registered Users can view or edit the data. Thus providing protection to the data.
+
+• Editing, adding and updating of Records by the user 
+
+• It deals with monitoring the information and transactions of labs.
+
+ 
 # Scope
  Can be applied in Labs, industries, Colleges, Schools etc
+
  Useful for the Lab In charge, employees etc. 
 
 # Installation
 • Import this project into your IDE.
+
 • Create a new Database and set name as 'LIBS'. After that, import 'LIBS.sql' file (Attached with this folder) in this database.
 
 # Group Members
