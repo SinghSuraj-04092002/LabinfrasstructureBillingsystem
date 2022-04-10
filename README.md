@@ -53,8 +53,8 @@ copy of bills in pdf format.
 ![View](https://user-images.githubusercontent.com/95633860/145010734-038b18ba-af4e-423c-af34-00eb16ab7a29.PNG)
 
 # About
-My name is Suraj Singh. I'm studying Information Technology (2nd Year) in APSIT (Thane). Contact me for any improvement/suggestions in this project.
-Email : 20104032.surajsingh@gmail.com
+My name is Suraj Singh. I'm studying Information Technology . Contact me for any improvement/suggestions in this project.
+Email : surajsingh04092002@gmail.com
 
 
 
